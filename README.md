@@ -7,9 +7,9 @@ I'm Marcus Thompson, a student at Brigham Young University-Idaho interested in B
 
 ## About Me
 
-- I'm currently learning ...
+- I'm currently learning Software Documentation
 - My goals are to Graduate the winter of 2026
-- Ask me about ...
+- Ask me about API's
 
 ## Technologies and Tools
 
